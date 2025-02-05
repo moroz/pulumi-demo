@@ -1,0 +1,7 @@
+{
+  "encryptionsalt": "v1:7X7YLytDEUE=:v1:x3fEvfbmhYRm49DT:tOKaLqIilFl9/daSoqRw7N119MnLwA==",
+  "config": {
+    "aws:profile": "tt",
+    "aws:region": "ap-northeast-1"
+  }
+}
