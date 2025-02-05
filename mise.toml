@@ -1,3 +1,7 @@
 [tools]
 go = "latest"
 pulumi = "latest"
+
+[env]
+# keepassxc-cli attachment-export ~/Dropbox/archive/Passwords.kdbx "/Pulumi/pulumi-demo passphrase" passphrase.key passphrase.key
+PULUMI_CONFIG_PASSPHRASE_FILE="./passphrase.key"
